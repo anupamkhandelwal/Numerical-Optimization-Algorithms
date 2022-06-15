@@ -11,4 +11,4 @@ Implementation of some popular numerical optimization techniques.
 
 3) Constrained optimization:
 
-   **Penalty Function** method and **Method of Multipliers** were implemented to obtain optimal solutions for constrained optimization problems. Further analysis and        challenges are discussed here.
+   **Penalty Function** method and **Method of Multipliers** were implemented to obtain optimal solutions for constrained optimization problems. Further analysis and        challenges are discussed [here](https://github.com/anupamkhandelwal/Numerical-Optimization-Algorithms/blob/main/Constrained%20Optimization/Paper.pdf).
